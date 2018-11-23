@@ -1,3 +1,5 @@
+**AdminLTE Chinese Doc**
+
 Introduction
 ============
 
